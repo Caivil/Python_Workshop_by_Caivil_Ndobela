@@ -5,8 +5,6 @@
 ---
 
 ## 📚 Workshop Outline
-
-### 0. Welcome
 ```python
 print("Hello, World")
 1. Variables & Data Types
