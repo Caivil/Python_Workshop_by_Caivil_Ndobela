@@ -56,4 +56,3 @@ Handle errors like ValueError, ZeroDivisionError
 🎓 Workshop presented by: Caivil Ndobela
 📍 Location: University of Pretoria
 📅 Audience: Master's & PhD candidates
-🧠 Level: Beginner
